@@ -1,0 +1,12 @@
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\zipUploader.exe.config
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\zipUploader.exe
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\zipUploader.pdb
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\WebDriver.dll
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\WebDriver.Support.dll
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\WebDriver.xml
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\bin\Debug\WebDriver.Support.xml
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\obj\Debug\zipUploader.csproj.CoreCompileInputs.cache
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\obj\Debug\zipUploader.csproj.CopyComplete
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\obj\Debug\zipUploader.exe
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\obj\Debug\zipUploader.pdb
+C:\Users\Harshal Patil\source\repos\zipUploader\zipUploader\obj\Debug\zipUploader.csprojAssemblyReference.cache
